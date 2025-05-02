@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{7919FAD0-E15F-354A-53CE-6688F1566E20}|UploadLargeFileNet8.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7919FAD0-E15F-354A-53CE-6688F1566E20}|UploadLargeFileNet8.csproj|e:\\\u4F7F\u7528 .net 6.0 \u6216 .net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 uploadlargefilesnet6\\uploadlargefilesnet6-master\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7919FAD0-E15F-354A-53CE-6688F1566E20}|UploadLargeFileNet8.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7919FAD0-E15F-354A-53CE-6688F1566E20}|UploadLargeFileNet8.csproj|e:\\\u4F7F\u7528 .net 6.0 \u6216 .net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 uploadlargefilesnet6\\uploadlargefilesnet6-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7919FAD0-E15F-354A-53CE-6688F1566E20}|UploadLargeFileNet8.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7919FAD0-E15F-354A-53CE-6688F1566E20}|UploadLargeFileNet8.csproj|e:\\\u4F7F\u7528 .net 6.0 \u6216 .net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 uploadlargefilesnet6\\uploadlargefilesnet6-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7919FAD0-E15F-354A-53CE-6688F1566E20}|UploadLargeFileNet8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +38,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\\u4F7F\u7528 .Net 6.0 \u6216 .Net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 UploadLargeFilesNet6\\UploadLargeFilesNet6-master\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\\u4F7F\u7528 .Net 6.0 \u6216 .Net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 UploadLargeFilesNet6\\UploadLargeFilesNet6-master\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T08:34:33.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\\u4F7F\u7528 .Net 6.0 \u6216 .Net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 UploadLargeFilesNet6\\UploadLargeFilesNet6-master\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\\u4F7F\u7528 .Net 6.0 \u6216 .Net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 UploadLargeFilesNet6\\UploadLargeFilesNet6-master\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T08:34:25.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UploadController.cs",
               "DocumentMoniker": "E:\\\u4F7F\u7528 .Net 6.0 \u6216 .Net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 UploadLargeFilesNet6\\UploadLargeFilesNet6-master\\Controllers\\UploadController.cs",
               "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
               "ToolTip": "E:\\\u4F7F\u7528 .Net 6.0 \u6216 .Net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 UploadLargeFilesNet6\\UploadLargeFilesNet6-master\\Controllers\\UploadController.cs",
               "RelativeToolTip": "Controllers\\UploadController.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T06:57:42.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u4F7F\u7528 .Net 6.0 \u6216 .Net 8.0 \u4E0A\u4F20\u5927\u6587\u4EF6 UploadLargeFilesNet6\\UploadLargeFilesNet6-master\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
